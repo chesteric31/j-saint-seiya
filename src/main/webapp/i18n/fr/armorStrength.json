@@ -1,0 +1,24 @@
+{
+  "jsaintseiyaApp": {
+    "armorStrength": {
+      "home": {
+        "title": "ArmorStrengths",
+        "createLabel": "Créer un nouveau Armor Strength",
+        "createOrEditLabel": "Créer ou éditer un Armor Strength",
+        "notFound": "Aucun Armor Strength trouvé"
+      },
+      "created": "Un nouveau Armor Strength a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Armor Strength avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Armor Strength avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Armor Strength {{ id }} ?"
+      },
+      "detail": {
+        "title": "Armor Strength"
+      },
+      "value": "Value",
+      "strength": "Strength",
+      "armor": "Armor"
+    }
+  }
+}

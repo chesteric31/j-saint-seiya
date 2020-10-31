@@ -1,0 +1,22 @@
+{
+  "jsaintseiyaApp": {
+    "armorCategory": {
+      "home": {
+        "title": "ArmorCategories",
+        "createLabel": "Créer un nouveau Armor Category",
+        "createOrEditLabel": "Créer ou éditer un Armor Category",
+        "notFound": "Aucun Armor Category trouvé"
+      },
+      "created": "Un nouveau Armor Category a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Armor Category avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Armor Category avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Armor Category {{ id }} ?"
+      },
+      "detail": {
+        "title": "Armor Category"
+      },
+      "name": "Name"
+    }
+  }
+}

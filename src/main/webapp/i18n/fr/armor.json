@@ -1,0 +1,25 @@
+{
+  "jsaintseiyaApp": {
+    "armor": {
+      "home": {
+        "title": "Armors",
+        "createLabel": "Créer un nouveau Armor",
+        "createOrEditLabel": "Créer ou éditer un Armor",
+        "notFound": "Aucun Armor trouvé"
+      },
+      "created": "Un nouveau Armor a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Armor avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Armor avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Armor {{ id }} ?"
+      },
+      "detail": {
+        "title": "Armor"
+      },
+      "name": "Name",
+      "versions": "Versions",
+      "strengths": "Strengths",
+      "category": "Category"
+    }
+  }
+}

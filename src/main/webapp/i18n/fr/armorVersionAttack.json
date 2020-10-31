@@ -1,0 +1,23 @@
+{
+  "jsaintseiyaApp": {
+    "armorVersionAttack": {
+      "home": {
+        "title": "ArmorVersionAttacks",
+        "createLabel": "Créer un nouveau Armor Version Attack",
+        "createOrEditLabel": "Créer ou éditer un Armor Version Attack",
+        "notFound": "Aucun Armor Version Attack trouvé"
+      },
+      "created": "Un nouveau Armor Version Attack a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Armor Version Attack avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Armor Version Attack avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Armor Version Attack {{ id }} ?"
+      },
+      "detail": {
+        "title": "Armor Version Attack"
+      },
+      "name": "Name",
+      "version": "Version"
+    }
+  }
+}

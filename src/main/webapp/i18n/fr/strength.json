@@ -1,0 +1,22 @@
+{
+  "jsaintseiyaApp": {
+    "strength": {
+      "home": {
+        "title": "Strengths",
+        "createLabel": "Créer un nouveau Strength",
+        "createOrEditLabel": "Créer ou éditer un Strength",
+        "notFound": "Aucun Strength trouvé"
+      },
+      "created": "Un nouveau Strength a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Strength avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Strength avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Strength {{ id }} ?"
+      },
+      "detail": {
+        "title": "Strength"
+      },
+      "name": "Name"
+    }
+  }
+}
